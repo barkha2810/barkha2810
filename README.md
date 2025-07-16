@@ -25,6 +25,11 @@ Whether you’re here to explore dashboards, SQL scripts, or just curious about 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power Query](https://img.shields.io/badge/-Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Adobe](https://img.shields.io/badge/-Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ---
 

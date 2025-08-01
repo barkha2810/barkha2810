@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m so glad you’re here!
 
-Welcome to my GitHub! I'm **Barkha Udasi**, a passionate Data Analyst with hands-on experience in **fraud detection**, **healthcare analytics**, and **data storytelling** 📊. I thrive on turning raw data into meaningful insights that drive smart business decisions.
+Welcome to my GitHub! I'm **Barkha Udasi**, a passionate Data Analyst with hands-on experience in **fraud detection**,**data analytics with AI** **healthcare analytics**, and **data storytelling** 📊. I thrive on turning raw data into meaningful insights that drive smart business decisions.
 
 Here’s what you’ll find here:
 - 🧠 Real-world projects on data analytics, dashboards & automation
@@ -30,6 +30,10 @@ Whether you’re here to explore dashboards, SQL scripts, or just curious about 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+[![LangChain](https://img.shields.io/badge/-LangChain-blueviolet?style=for-the-badge)](https://www.langchain.com/)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge)](https://openai.com/)
+[![Generative AI](https://img.shields.io/badge/-Generative%20AI-ff69b4?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+[![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-ff8c00?style=for-the-badge)](https://www.langchain.com/use-cases/agents)
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m so glad you’re here!
 
-Welcome to my GitHub! I'm **Barkha Udasi**, a passionate Data Analyst with hands-on experience in **fraud detection**,**data analytics with AI** **healthcare analytics**, and **data storytelling** 📊. I thrive on turning raw data into meaningful insights that drive smart business decisions.
+Welcome to my GitHub! I'm **Barkha Udasi**, a passionate Data Analyst with hands-on experience in **fraud detection**,**data analytics with AI**, **healthcare analytics**, and **data storytelling** 📊. I thrive on turning raw data into meaningful insights that drive smart business decisions.
 
 Here’s what you’ll find here:
 - 🧠 Real-world projects on data analytics, dashboards & automation
